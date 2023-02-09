@@ -1,8 +1,8 @@
-## E-Commerce Drone Store<br>
+# E-Commerce Store<br>
 <br>
 This folder contains the project built in React-JS using Mockbee backend , an e-comm platform for a drone store.<br>
 <br>
-## Features: <br>
+Features: 
 <br>
 - Authentication (Login, Signup, Logout) <br>
 - Proper Landing page with featured categories<br>
