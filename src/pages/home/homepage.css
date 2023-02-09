@@ -1,0 +1,58 @@
+.homepage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.banner{
+    margin-top: 2rem;
+    color: white;
+    font-size: 5rem;
+}
+
+.banner-img{
+    width: 100%;
+    margin-top: -8rem;
+    z-index: -1;
+}
+.categories{
+    padding-top: 2rem;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.categories h1{
+    font-size: 3rem;
+    padding-bottom: 1rem;
+}
+.hr-div{
+    border: solid 0.5px black;
+    width: 500px;
+}
+.category-container{
+    display: flex;
+    gap: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+}
+.quote{
+    padding-top: 2rem;
+    font-size: 3rem;
+    padding-bottom: 2rem;
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 100%;
+}
+
+.banner-text{
+    font-size: 5rem;
+    padding-top: 7rem;
+    margin-bottom: -12rem;
+    color: white;
+    font-weight: 200;
+    letter-spacing: 0.5rem;
+    text-transform: uppercase;
+}
